@@ -17,3 +17,4 @@ def check_message(message): # Название функции не играет 
 
 if __name__ == '__main__':
      bot.infinity_polling()
+#Hi       
